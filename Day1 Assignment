@@ -1,0 +1,16 @@
+1)What is Python?What are the different ways to install python in your pc?
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+
+Ways to install python in your PC
+1. Can be directly downloaded from Python.org
+2. Download IDE which has in-built libraries such as Anaconda, pycharm
+
+2) What are code environment? What are its types?
+
+A code environment is a standalone and self-contained environment to run Python or R code. Each code environment has its own set of packages. Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them.
+
+There are 3 types of environments
+1.Text Editors
+2.Full IDEs(Integrated Development Environment)
+3. Notebook Environment 1
